@@ -1,0 +1,38 @@
+DOMINIO,ID,PREGUNTA,VALOR
+Marcación verbal,Q1.1,La lengua posee indexación,"1, 0"
+,,,
+,Q1.2,Persona puede ser marcada para S:,"a=prefijo, b=sufijo, c=ambos, d=proclítico, e=enclítico, f=clítico, g=no marcado"
+,Q1.2.1,La marcación de persona para S cuando el conominal está expresado en la cláusula es:,"a=obligatorio, b=variable, c=no marcado"
+,Q1.2.2,El locus de la marcación argumental es en:,"a=dentro del verbo, b=fuera del verbo, c=ambos"
+,Q1.3,Número puede ser marcado para S:,"a=prefijo independiente, b=sufijo independiente, c=fusionado con persona, d=no marcado"
+,Q1.4,Género puede ser marcado para S:,"a=prefijo independiente, b=sufijo independiente, c=fusionado con persona, d=no marcado, e=no hay género"
+,,,
+,Q1.5,Persona puede ser marcada para A:,"a=prefijo, b=sufijo, c=ambos, d=proclítico, e=enclítico, f=clítico, g=no marcado"
+,Q1.5.1,La marcación de persona para A cuando el conominal está expresado en la cláusula es:,"a=obligatorio, b=variable, c=no marcado"
+,Q1.5.2,El locus de la marcación argumental es en:,"a=dentro del verbo, b=fuera del verbo, c=ambos"
+,Q1.6,Número puede ser marcado para A:,"a=prefijo independiente, b=sufijo independiente, c=fusionado con persona, d=no marcado"
+,Q1.7,Género puede ser marcado para A:,"a=prefijo independiente, b=sufijo independiente, c=fusionado con persona, d=no marcado, e=no hay género"
+,,,
+,Q1.8,Persona puede ser marcada para P:,"a=prefijo, b=sufijo, c=ambos, d=proclítico, e=enclítico, f=clítico, g=no marcado"
+,Q1.8.1,La marcación de persona para P cuando el conominal está expresado en la cláusula es:,"a=obligatorio, b=variable, c=no marcado"
+,Q1.8.2,El locus de la marcación argumental es en:,"a=dentro del verbo, b=fuera del verbo, c=ambos"
+,Q1.9,Número puede ser marcado para P:,"a=prefijo independiente, b=sufijo independiente, c=fusionado con persona, d=no marcado"
+,Q1.10,Género puede ser marcado para P:,"a=prefijo independiente, b=sufijo independiente, c=fusionado con persona, d=no marcado, e=no hay género"
+,,,
+,Q1.11,"En cláusulas transitivas que marcan A y P, la marcación es:","a=A antes que P, b=P antes que A, c=jerárquica, d=pormanteau"
+,Q1.12,Cláusulas ditransitivas pueden marcar:,"a= R, b=T, c=R o T, d=R y T, e=ninguno"
+,Q1.13,Género solo puede ser marcado en el singular:,"1, 0"
+,Q1.14,Primera persona inclusivo es una categoría morfológica distinta en los marcadores de argumentos verbales:,"1, 0"
+,,,
+Inversión,Q2.1,La lengua tiene una escisión en la indexación basada en el escenario:,"1, 0"
+,Q2.1.1,Un morfema distinto marca la construcción inversa en el verbo:,"1, 0"
+,Q2.1.2,Argumentos referenciales en construcciones inversas son tratados con un set indexical distinto del usado para indexar el argumento referencial en construcciones directas:,"1, 0"
+,Q2.1.3,Las construcciones inversas pueden ser usadas para distinguir entre argumentos de 3ra persona en escenarios No Locales:,"1, 0"
+,,,
+Intransitividad escindida,Q3.1,La lengua tiene dos clases de verbos intransitivos con marcación formal separada de sus argumentos:,"1, 0"
+,Q3.1.1,S de verbos de eventos sin control son tratados como:,"a= clase mayor, b=clase menor, c=variable"
+,Q3.1.2,S de verbos estativos con control son tratados como:,"a= clase mayor, b=clase menor, c=variable"
+,Q3.1.3,Verbos intransitivos pueden alternar entre clases dependiente de consideraciones semánticas,"1, 0"
+,Q3.1.4,Verbos intransitivos pueden alternar entre clases dependiente de consideraciones pragmáticas,"1, 0"
+,Q3.1.5,Verbos intransitivos pueden alternar entre clases dependiente de consideraciones de modalidad o aspecto,"1, 0"
+,Q3.1.6,Clase menor de verbos intransitivos muestran alineamiento con:,"a=A, b=P, c=ninguno"
