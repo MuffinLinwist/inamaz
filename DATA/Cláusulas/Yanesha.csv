@@ -1,51 +1,60 @@
 ,,,,,,
-N.º INTR,,,,,,
-N.º TRAN,,,,,,
+N.º INTR,29,,,,,
+N.º TRAN,14,,,,,
+N.º DITRAN,5,,,,,
+TOTAL,48,,,,,
 ,,,,,,
 ORACIÓN,SEGMENTO,GLOSA,TRADUCCIÓN,TIPO,FUENTE,
-Netaruasen,ne-taruasen,1SG-trabajar,Estoy trabajando,I,Duff-Tripp 1997: pp. 62,listo
-Shonte’ puechemeresha’,shonte’    puechemer-esha’,mucho   hijo.de.hombre-PL,El tenía muchos hijos,,Duff-Tripp 1997: pp. 26,listo
-Huapa cornesha’ puet̃apore’na,huap-a   cornesha’   pue-tapore-na,venir-REFL   curaca   3-esposa-COM,El curaca viene con su esposa,I,Duff-Tripp 1997: pp. 47,listo
+Netaruasen,ne-taruasen,1SG-trabajar,Estoy trabajando,I,Duff-Tripp 1997: pp. 62,
+Shonte’ puechemeresha’,shonte’    puechemer-esha’,mucho   hijo.de.hombre-PL,El tenía muchos hijos,,Duff-Tripp 1997: pp. 26,predicado nomianl
+Huapa cornesha’ puet̃apore’na,huap-a   cornesha’   pue-tapore-na,venir-REFL   curaca   3POS.esposa-COM,El curaca viene con su esposa,I,Duff-Tripp 1997: pp. 47,
 Ochecñapa’ ahuo’ otac̈herra,ochec-ña-pa’   ahuo’,perro-ENF-TEM   ir.PUNT.3SG,Los perros (lit. perro) se habían ido adelante,I,Duff-Tripp 1997: pp. 26,otacherra?
 Huac̈ha’ta shonte’ yamo’tsesha’,hua-ch-a’ta   shonte’   y-amo’ts-esha’,llegar-PL-   mucho   1PL.POS-paisano-PL,Llegaron muchos de nuestros paisanos,I,Duff-Tripp 1997: pp. 26,huacha’ta?
 Shontoset yepacllo,shont-os-et   ye-pacllo,mucho-al.llegar-3PL   1PL-casa,Llenaron nuestra casa,,Duff-Tripp 1997: pp. 26,shontoset?
-Pot̃aporñapa' ahuo' puetse'tan c̈hop,pue-tapor-ña-pa’   ahuo’,3-esposa-ENF-TEM   ir.PUNT.3SG,Su esposa molió maíz,T ,Duff-Tripp 1997: pp. 43,puetse’tan chop?
-Ac̈hotueney yerrollaresha,ye-rrollar-esha,3-esposo-PL,Nuestros esposos cantan acerca de nosotras,I,Duff-Tripp 1997: pp. 45,achotueney?
-Acashe’mat̃ huena ach,acashe’ma-t̃   huen-a   ach,cushma.de.mujer-PRIV   está.vestida-REFL   mamá,Mamá viene vestida con su cushma,I,Duff-Tripp 1997: pp. 57,listo
+Pot̃aporñapa' ahuo' puetse'tan c̈hop,pue-tapor-ña-pa’   ahuo’   c̈hop,3POS.esposa-ENF-TEM   ir.PUNT.3SG   maíz,Su esposa molió maíz,T ,Duff-Tripp 1997: pp. 43,puetse’tan?
+Ac̈hotueney yerrollaresha,ye-rrollar-esha,3POS.esposo-PL,Nuestros esposos cantan acerca de nosotras,I,Duff-Tripp 1997: pp. 45,achotueney?
+Acashe’mat̃ huena ach,acashe’ma-t̃   huen-a   ach,cushma.de.mujer-PRIV   está.vestida-REFL   mamá,Mamá viene vestida con su cushma,I,Duff-Tripp 1997: pp. 57,
 Chesha’ achoret̃ coshena,chesha’   ach-o-ret̃,niño   madre-COM-ADJTVZDR,El niño que tiene madre (viva) está contento,,Duff-Tripp 1997: pp. 57,coshena?
-Napa’ netaruasen,na-pa’   ne-taruasen,1SG-TEM   1SG-trabajar,Yo trabajo,I,Duff-Tripp 1997: pp. 62,listo
-Yapa’ yetaruasen,ya-pa’   ye-taruasen,1PL-TEM   1PL-trabajar,Nosotros trabajamos,I,Duff-Tripp 1997: pp. 62,listo
-Yetaruasen,ye-taruasen,1PL-trabajar,Trabajamos,I,Duff-Tripp 1997: pp. 62,listo
-Morrentenna,morrenten-n-a,amar-1SG-REFL,Me ama (sin énfasis),T,Duff-Tripp 1997: pp. 63,listo
-Morrentenna na,morrenten-n-a   na,amar-1SG-REFL   1SG,Me ama (con énfasis),T,Duff-Tripp 1997: pp. 63,listo
-Apuen,apu-en,dar-1SG,Me lo dio (sin énfasis),T,Duff-Tripp 1997: pp. 63,listo
+Napa’ netaruasen,na-pa’   ne-taruasen,1SG-TEM   1SG-trabajar,Yo trabajo,I,Duff-Tripp 1997: pp. 62,
+Yapa’ yetaruasen,ya-pa’   ye-taruasen,1PL-TEM   1PL-trabajar,Nosotros trabajamos,I,Duff-Tripp 1997: pp. 62,
+Yetaruasen,ye-taruasen,1PL-trabajar,Trabajamos,I,Duff-Tripp 1997: pp. 62,
+Morrentenna,morrenten-n-a,amar-1SG-REFL,Me ama (sin énfasis),T,Duff-Tripp 1997: pp. 63,
+Morrentenna na,morrenten-n-a   na,amar-1SG-REFL   1SG,Me ama (con énfasis),T,Duff-Tripp 1997: pp. 63,
+Apuen,apu-en,dar-1SG,Me lo dio (sin énfasis),T,Duff-Tripp 1997: pp. 63,
 Nechope’chen,ne-chope’chen,1SG-andar,Ando,I,Duff-Tripp 1997: pp. 69,verbo?
-P̃a’tsna’ten,p-a’tsna’ten,2SG-estar.enfermo,Tú estás enfermo,I,Duff-Tripp 1997: pp. 69,listo
-Enteñet,enteñ-et,ver-3PL,Lo/la ven,T,Duff-Tripp 1997: pp. 69,listo
-Natsna’ten,n-atsna’ten,1SG-estar.enfermo,Estoy enfermo,I,Duff-Tripp 1997: pp. 69,listo
-Ahuep̃,ahu-ep̃,ir-2SG,Vas/vete,I,Duff-Tripp 1997: pp. 69,listo
-Atsna’tenet,atsna’ten-et,estar.enfermo-3PL,Están enfermos,I,Duff-Tripp 1997: pp. 70,listo
-Osenen,osen-en,tener.fiebre-1SG,Tengo fiebre,I,Duff-Tripp 1997: pp. 69,listo
-Ahuet,ahu-et,ir-3PL,Van,I,Duff-Tripp 1997: pp. 70,listo
-Amesen,amesen,descansar,(Él/Ella)descansa,I,Duff-Tripp 1997: pp. 70,listo
-Taruasen,taruasen,trabajar,(Él/Ella) trabaja,I,Duff-Tripp 1997: pp. 72,listo
-setaruasen,se-taruasen,2PL-trabajar,(Ustedes) trabajan,I,Duff-Tripp 1997: pp. 72,listo
-petaruasen,pe-taruasen,2SG-trabajar,Trabajas,I,Duff-Tripp 1997: pp. 72,listo
-osenep̃,osen-ep̃,tener.fiebre-2SG,Tienes fiebre,I,Duff-Tripp 1997: pp. 73,listo
-oseney,osen-ey,tener.fiebre-1PL,Tenemos fiebre,I,Duff-Tripp 1997: pp. 73,listo
-na huapatsa,na   huap-ats-a,1SG   venir-SNE-REFL,Yo vine,I,Duff-Tripp 1997: pp. 74,listo
-ñet huapatset,ñet   huap-ats-et,3PL   venir-SNE-3PL,Ellos/ellas vinieron,I,Duff-Tripp 1997: pp. 74,listo
-Ach huapatsa,ach   huap-ats-a,mamá   venir-SNE-REFL,Mamá vino,I,Duff-Tripp 1997: pp. 74,listo
-ame’ñenna,ame’ñen-n-a,obedecer-1SG-REFL,Él/ella me obedece,T,Duff-Tripp 1997: pp. 74,listo
-ame’ñennet,ame’ñen-n-et,obedecer-1SG-3PL,Ellos me obedecen,T,Duff-Tripp 1997: pp. 75,listo
+P̃a’tsna’ten,p-a’tsna’ten,2SG-estar.enfermo,Tú estás enfermo,I,Duff-Tripp 1997: pp. 69,
+Enteñet,enten-ʲ-et,ver-3SG-3PL,Lo/la ven,T,Duff-Tripp 1997: pp. 69,
+Natsna’ten,n-atsna’ten,1SG-estar.enfermo,Estoy enfermo,I,Duff-Tripp 1997: pp. 69,
+Ahuep̃,ahu-ep̃,ir-2SG,Vas/vete,I,Duff-Tripp 1997: pp. 69,
+Atsna’tenet,atsna’ten-et,estar.enfermo-3PL,Están enfermos,I,Duff-Tripp 1997: pp. 70,
+Osenen,osen-en,tener.fiebre-1SG,Tengo fiebre,I,Duff-Tripp 1997: pp. 69,
+Ahuet,ahu-et,ir-3PL,Van,I,Duff-Tripp 1997: pp. 70,
+Amesen,amesen,descansar,(Él/Ella)descansa,I,Duff-Tripp 1997: pp. 70,
+Taruasen,taruasen,trabajar,(Él/Ella) trabaja,I,Duff-Tripp 1997: pp. 72,
+setaruasen,se-taruasen,2PL-trabajar,(Ustedes) trabajan,I,Duff-Tripp 1997: pp. 72,
+petaruasen,pe-taruasen,2SG-trabajar,Trabajas,I,Duff-Tripp 1997: pp. 72,
+osenep̃,osen-ep̃,tener.fiebre-2SG,Tienes fiebre,I,Duff-Tripp 1997: pp. 73,
+oseney,osen-ey,tener.fiebre-1PL,Tenemos fiebre,I,Duff-Tripp 1997: pp. 73,
+na huapatsa,na   huap-ats-a,1SG   venir-SNE-REFL,Yo vine,I,Duff-Tripp 1997: pp. 74,
+ñet huapatset,ñet   huap-ats-et,3PL   venir-SNE-3PL,Ellos/ellas vinieron,I,Duff-Tripp 1997: pp. 74,
+Ach huapatsa,ach   huap-ats-a,mamá   venir-SNE-REFL,Mamá vino,I,Duff-Tripp 1997: pp. 74,
+ame’ñenna,ame’ñen-n-a,obedecer-1SG-REFL,Él/ella me obedece,T,Duff-Tripp 1997: pp. 74,
+ame’ñennet,ame’ñen-n-et,obedecer-1SG-3PL,Ellos me obedecen,T,Duff-Tripp 1997: pp. 75,
 Ya’matse’ta’muen,y-a’matse’t-a’m-uen,1PL-cultivar-TEMPR-,Cultivamos por la mañana,,Duff-Tripp 1997: pp. 157,
-Yacmañapa’ ahuo’ percosan huaserr,yacma-ña-pa’   ahuo’   percos-an   huaserr,hombre-ENF-TEM   fue   hacer-COMPL   represa,El hombre hizo una represa (en el agua),T,Duff-Tripp 1997: pp. 157,listo
+Yacmañapa’ ahuo’ percosan huaserr,yacma-ña-pa’   ahuo’   percos-an   huaserr,hombre-ENF-TEM   fue   hacer-COMPL   represa,El hombre hizo una represa (en el agua),T,Duff-Tripp 1997: pp. 157,
 Yapa’ yayatenañ huocchanesha’,ya-pa’   y-ayatenañ   huocchanesha’,1PL-TEM   1PL-criar   huérfano,Nosotros criamos a los huérfanos,T,Duff-Tripp 1997: pp. 157,verbo?
-Ahuo’ ach pa’choyo,ahuo’   ach   p-a’choy-o,ir.PUNT.3G   mamá   3.POS-chacra-LOC,Se fue su mamá a su chacra,I,Duff-Tripp 1997: pp. 158,listo
+Ahuo’ ach pa’choyo,ahuo’   ach   p-a’choy-o,ir.PUNT.3G   mamá   3.POS-chacra-LOC,Se fue su mamá a su chacra,I,Duff-Tripp 1997: pp. 158,
 Parroch huapa ma’yarr nanac atesha’,parroch   huap-a   ma’yarr   nanac   atesha’,un.día    venir-REFL   tigre   excesivamente   grande,Un día vino un tigre muy grande,I,Duff-Tripp 1997: pp. 158,parroch?
-Añ ochecpa’ atarr ac̈hañ,añ   ochec-pa’   atarr   ac̈hañ,este   perro-TEM   mucho   morder,Este perro muerde mucho,I,Duff-Tripp 1997: pp. 158,listo
+Añ ochecpa’ atarr ac̈hañ,añ   ochec-pa’   atarr   ac̈hañ,este   perro-TEM   mucho   morder,Este perro muerde mucho,I,Duff-Tripp 1997: pp. 158,
 Ñeñt̃ coyanesha’ñapa’ ahuo’c̈ho’ ot,ñeñt̃   coyanesha’-ña-pa   ot,esa   mujer-ENF-TEM   decir,Esa mujer dijo (algo),,Duff-Tripp 1997: pp. 158,ahuo’cho’
-Pat̃rro’ queshp̃atsa,pat̃err-o’   queshp̃-ats-a,uno-EVI.REPOR   escapar-SNE-REFL,Solamento uno (un tigre) escapó,I,Duff-Tripp 1997: pp. 161,listo
+Pat̃rro’ queshp̃atsa,pat̃err-o’   queshp̃-ats-a,uno-EVI.REPOR   escapar-SNE-REFL,Solamente uno (un tigre) escapó,I,Duff-Tripp 1997: pp. 161,
 Po’señapa’ ahuo’c̈ho’ torerranña po’p̃rec e’ne acop̃a,p-o’se-ña-pa’   e’ne   acop̃a,3POS-hermano.de.ella-ENF-TEM   completamente   despacio,Su hermano deshizo la represa muy despacio,T,Duff-Tripp 1997: pp. 162,ahuo’cho’ torerranña po’prec?
-entenanet,enten-an-et,ver-COMPL-3PL,Los ve,T,Duff-Tripp 1997: pp. 168,listo
-nentenanet,n-enten-an-et,1SG-ver-COMPL-3PL,Los veo,T,Duff-Tripp 1997: pp. 168,listo
+entenanet,enten-an-et,ver-COMPL-3PL,Los ve,T,Duff-Tripp 1997: pp. 168,
+nentenanet,n-enten-an-et,1SG-ver-COMPL-3PL,Los veo,T,Duff-Tripp 1997: pp. 168,
+Apa’nman puechemer quelle,poechemer   quelle,su.hijo.de.él   dinero,Dio a su hijo dinero al salir,D,Duff-Tripp 1997: pp. 172,apa’nman? apue ‘dar’ +?
+Aphuerran pot̃apor ech ,aphu-err-an   pot̃apor   ech,dar-REGRES-COMPL   3POS.esposa   mitayo,Al regresar dio mitayo a su esposa,D,Duff-Tripp 1997: pp. 172,verbo?
+Rratan patollpar c̈hop,p-atollp-ar    c̈hop,3POS-gallina-POS   maíz,Dio maíz a sus gallinas,D,Duff-Tripp 1997: pp. 172,rratan?
+Napueñ nechemer,n-apue-ñ    nechemer,1SG-dar-3SG   hijo.de.hombre,Le dí a mi hijo,D,Duff-Tripp 1997: pp. 172,
+Apet,apue-et,dar-3PL,Le dieron,D,Duff-Tripp 1997: pp. 172,
+Nenten ochec,n-enten   ochec,1SG-ver   perro,Veo al perro,T,Duff-Tripp 1997: pp. 176,
+Nenteñ ochec,n-enten-ʲ   ochec,1SG-dar-3SG   perro,Lo veo al perro,T,Duff-Tripp 1997: pp. 176,
