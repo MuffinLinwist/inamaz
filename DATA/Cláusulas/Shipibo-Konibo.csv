@@ -1,6 +1,7 @@
 ,,,,,
 N.º INTR,27,,,,
-N.º TRAN,30,,,,
+N.º TRAN,29,,,,
+N.º DITRAN,1,,,,
 TOTAL,57,,,,
 ,,,,,
 ORA,SEGMENT,GLOSA,TRAD,TIPO,FUENTE
@@ -24,18 +25,17 @@ ORA,SEGMENT,GLOSA,TRAD,TIPO,FUENTE
 ,sabado-nin-ra   e-a   paboro-nin   ka-kas-ai,sábado-TEMP-EV   1-ABS   ensenada-ALL   ir-DES-INC,"El sábado, yo quiero ir a la ensenada",I,Valenzuela (1997)
 ,mi-a-ra   nomi-ai,2-ABS-EV   estar.sediento,Tú estás sediento,I,Valenzuela (2003): pp. 336
 ,mi-a-ra   niskan-ai,2-ABS-EV   sudar-INC,Tú estás sudando,I,Valenzuela (2003): pp. 336
-,e-a-ra   chixot-ai,1-ABS-EV   tener.diarrea-INC,Yo tengo diarrea|,I,Valenzuela (2003): pp. 336
+,e-a-ra   chixot-ai,1-ABS-EV   tener.diarrea-INC,Yo tengo diarrea,I,Valenzuela (2003): pp. 336
 ,ea-ra   jiwi   bochiki   nee-ke   bonko   meran   jiki-i,1:ABS-EV   árbol   arriba   escalar-CMPL   follaje   adentro   entrar-SSSI,Yo escalé el árbol escondiéndome en el follaje,I,Valenzuela (2003): pp. 337
 ,oi-ra   be-ai,lluvia:ABS-EV   venir.n.SG-INC,Está lloviendo / la lluvia está viniendo,I,Valenzuela (2003): pp. 338
 ,oi-ra   bo-ai,lluvia:ABS-EV   ir.n.SG-INC,La lluvia se está yendo a otro lado / está parando,I,Valenzuela (2003): pp. 338
 ,wakanawa-ronki   be-ai,escuela.de.peces:ABS:HSY   venir.n.SG-INC,La escuela de peces está aproximándose,I,Valenzuela (2003): pp. 338
 ,e-a-ra   matsi-n   ik-ai,1-ABS-EV   frío-OBL   hacer.I-INC,Yo tengo frío,I,Valenzuela (2003): pp. 341
 ,e-a-ra   mapé-ke   jene   merano-a-x,1-ABS-EV   ir.arriba-CMPL   agua.que.fluye   adentro:LOC-ABL-S,Yo salí del agua,I,Valenzuela (2003): pp. 348
-,,,,,
 ,e-a-ra   nawa-n   ochíti-nin   natex-ke,1-ABS-EV   mestizo-GEN   perro-ERG   morder-CMPL,El perro del mestizo me mordió,T,Valenzuela (2010): pp. 71
 ,e-n-ra   nawa-n   ochíti   jamá-ke,1-ERG-EV   mestizo-GEN   perro:ABS   patear-CMPL,Yo pateé al perro del mestizo,T,Valenzuela (2010): pp. 72
 ,ja-n-ra   jato   keyo-ke,3-ERG-EV   3p:ABS   terminar-CMPL,Ella/él los/las exterminó.,T,Valenzuela (2010): pp. 73
-,pena-n-ra   bake-bo   esé-bo   meni-ai,Pena-ERG-EV   niño-PL:ABS   consejo-PL:ABS   dar-INC,Pena les da consejos a los niños,T,Valenzuela (2003): pp. 528
+,pena-n-ra   bake-bo   esé-bo   meni-ai,Pena-ERG-EV   niño-PL:ABS   consejo-PL:ABS   dar-INC,Pena les da consejos a los niños,D,Valenzuela (2003): pp. 528
 ,tita   betan   papa-n-ra   jato-n   bake-bo   ese-ai,madre   y   padre-ERG-EV   3p-GEN   niño-PL:ABS   aconsejar-INC,La madre y el padre aconsejaron a sus hijos,T,Valenzuela (2003): pp. 324
 ,wiso   ino   sinakan-ronki   joni   rabé   pi-ke,negro   jaguar   feroz:ERG-REP   persona   dos:ABS   comer-CMPL,(Dicen que) el feroz puma negro se comió a los dos hombres,T,Valenzuela (2003): pp. 324
 ,ja-n-ra   ea   jamá-ke,3-ERG-EV   1:ABS   patear-INC,Ella/él me pateó,T,Valenzuela (2003): pp. 345
