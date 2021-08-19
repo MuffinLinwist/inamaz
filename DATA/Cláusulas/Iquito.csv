@@ -1,66 +1,64 @@
-,,,,,
-N.º INTR,33,,,,
-N.º TRAN,25,,,,
-TOTAL,58,,,,
-,,,,,
-ORA,SEGMENT,GLOSA,TRAD,TIPO,FUENTE
-,Qui=amicaáca=nara-r++-∅,1S=un.día.de.distancia=bañar-MMT.PFV-EC,Mañana me bañaré,I,Lai (2009): pp. 50
-,Qui=nara-r++-∅   amicaáca,1S=bañar-MMT.PFV-EC   un.día.de.distancia,Mañana me bañaré,I,Lai (2009): pp. 50
-,Qui=nara-∅-cura   amicaáca,1S=bañar-GNR.PFV-RPST   un.día.de.distancia,Ayer yo me bañé,I,Lai (2009): pp. 51
-,Iina   maqui-i-∅   icuani,DET   dormir-IPFV-EC   hombre,Ese hombre está durmiendo,I,Lai (2009): pp. 53
-,Icuani   maqui-i-∅,hombre   dormir-IPFV-EC,Un hombre está durmiendo,I,Lai (2009): pp. 54
-,Iina   icuani   nu=maqui-i-∅,DET   hombre   3S=dormir-IPFV-EC,"Ese hombre, él está durmiendo",I,Lai (2009): pp. 54
-,Jaime   nu=pajuu-yaa-∅,Jaime   3S=enseñar-IPFV-EC,Jaime está enseñando,I,Lai (2009): pp. 71
-,Nu=sani-qui-∅   nuu,3S=tratar-GNR.PFV-EC   3S,Él trató (hoy),I,Lai (2009): pp. 71
-,Nu=sihuaan+-r++-∅,3S=llegar-MMT.PFV-EC,Él llegó,I,Lai (2009): pp. 71-72
-,Taaríqui   nu=sihuaan+-maa-∅,mañana   3S=llegar-REM.PFV-EC,Él llego en la mañana,I,Lai (2009): pp. 72
-,Nu=maqu+-cuaa-∅   tíira,3S=dormir-DEI2.PFV-EC   allí,Él durmió allí (y ya no está ahí),I,Lai (2009): pp. 72
-,Jaa   cu=asa-sahu++-∅   jaa,ya   1S=comer-ALL.PFV-EC   ya,Yo ya comí al llegar,I,Lai (2009): pp. 72
-,Taaríqui   p+=iisa-cuaa-∅   tíira,mañana   1PL.INCL=orinar-DEI1-EC   ahí,Nosotros fuimos ahí a orinar en la mañana,I,Lai (2009): pp. 75
-,P+=iicua-r++-∅   Iquito=jina   amicaáca,1P.INCL=ir-MMT.PFV-EC   Iquitos=LOC   un.día.de.distancia,Nosotros iremos a Iquitos mañana,I,Lai (2009): pp. 75
-,Qui=iicua-∅-quiaqu+   tíira   naqui-cuura,1S=ir-GNR.PFV-DPST.NIP   ahí   bosque-DST,Yo fui ahí al bosque (hace mucho tiempo),I,Lai (2009): pp. 85
-,Cu=am+yaaqui-aariqu+tíira   naqui-jina,1S=caminar-DPST.IPFV   ahí   bosque-LOC,Yo solía caminar ahí en el bosque,I,Lai (2009): pp. 85
-,Nu=iiqui-∅-aariqu+   Iquito-jina   taríiyaajaa,3S=vivir-GNR.PFV-DPST.IPFV   Iquito-LOC   hace.mucho.tiempo,Él vivió en la ciudad de Iquitos hace mucho tiempo,I,Lai (2009): pp. 108
-,Taríi   qui=muusi-∅-quiaqu+=yaa   iina=jina   aaca,antes   1S=nadar-GNR.PFV-DPST.NIP=NWR   DET=LOC   agua,Yo nadé en esta agua hace mucho tiempo,I,Lai (2009): pp. 109
-,Taríi   qui=ihu+ri-aariqu+=yaajaa,antes   1S=estar.enfermo-DPST.IPFV=NWR,Yo estuve enfermo hace mucho tiempo,I,Lai (2009): pp. 109
-,"Ácari   iina   niínaqui,   qui=suhuaata   maqu+-r++-∅",ahora   DET   noche   1S=bien   dormir-MMT.PFV-EC,Esta noche yo voy a dormir bien,I,Lai (2009): pp. 122
-,Amicaáca   cu=ariicua-∅-cura,un.día.de.distancia   1S=cantar-GNR.PFV-RPST,Ayer yo canté,I,Lai (2009): pp. 123
-,Amicaáca   p++   iicua-r++-∅,un.día.de.distancia   1PL.INCL   ir-MMT.PFV-EC,Mañana nosotros iremos,I,Lai (2009): pp. 123-124
-,P+=tiqui-aar++-∅   iina-jinacuma   iíta,1P.INCL=entrar-ABL.PFV-EC   DET-adentro   casa,Nosotros entramos en esa casa,I,Lai (2009): pp. 131
-,Ácari   iina   niínaqui   quia=suhuaata   maqu+-qui-∅,ahora   DET   noche   2S=bien   dormir-GNR.PFV-EC,Esta noche tú dormirás bien,I,Lai (2009): pp. 136
-,Tácari   yahu++ni=jina   quia=paj+-yaa-cuma,otro   día-LOC   2S=aprender-IPFV-POT,Un día tú estudiarías,I,Lai (2009): pp. 157
-,Niínaqui   nu=ta   cuhuasi-i-∅,noche   3S=ANT.IPFV   hablar-IPFV-EC,"En la noche, él estaba hablando",I,Lai (2009): pp. 422
-,Nu=quit+-r++-∅   cuhuasiini,3S=parar-MMT.PFV-EC   hablar.INF,Él paró de hablar,I,Lai (2009): pp. 433
-,Jaa   nu=iniica-qui-∅,ya   3S=despertarse-GNR.PFV-EC,Él ya se despertó,I,Lai (2009): pp. 435
-,Nu=isiin++-yaa-∅,3S=toser-IPFV-EC,Él está tosiendo,I,Lai (2009): pp. 447
-,Nu=asíjuu-yaa-∅,3S=estornudar-IPFV-EC,Él está estornudando,I,Lai (2009): pp. 447
-,Taaríqui   nu=ta   n+ti-i-∅,mañana   3S=ANT.IPFV   correr-IPFV-EC,Él estaba corriendo en la mañana,I,Lai (2009): pp. 453
-,Taaríqui   nu=n+t+-qui-∅,mañana   3S=correr-GNR.PFV-EC,Él corrió en la mañana,I,Lai (2009): pp. 453
-,Quia=iiqui-i-∅   najaaja   qui=jata,2S=vivir-IPFV-EC   también   1S=COM,Tú también vives conmigo,I,Lai (2009): pp. 486
-,Aási   picuu-∅-cura   iíta-ca,lluvia   mojar-GNR.PFV-RPST   casa-PL,La lluvia mojó las casas (ayer),T ,Lai (2009): pp. 47
-,Nu=niqui-qui-∅   nuu,3S=ver-GNR.PFV-EC   3S,Él/Ella lo/la vió (hoy),T ,Lai (2009): pp. 48
-,Nu=nu=niqui-r+-∅,3S=3S=ver-MMT.PFV-EC,Él/Ella lo/la verá (mañana),T ,Lai (2009): pp. 48
-,Aási   picuu-∅-∅   iíta-ca,lluvia   mojar-GNR.PFV-EC   casa-PL,La lluvia mojó las casas (hoy),T ,Lai (2009): pp. 49
-,Aási   iíta-ca   picuu-r++-∅,lluvia   casa-PL   mojar-MMT.PFV-EC,La lluvia mojará las casas (mañana),T ,Lai (2009): pp. 49
-,Iina   m+yaara   s++naqui-∅-cura   iína   caaya,DET   perro   masticar/morder-GNR.PFV-RPST   DET   persona,Ese perro mordió a esa persona (ayer),T ,Lai (2009): pp. 54
-,Qui=niqui-∅-cura   iina   icuani,1S=ver-GNR.PFV-RPST   DET   hombre,Yo vi a ese hombre (ayer),T ,Lai (2009): pp. 56
-,Iina   m+saji   nu=niqui-∅-cura   amicaáca   iina   icuani,DET   mujer   3S=ver-GNR.PFV-RPST   un.día.de.distancia   DET   hombre,Esa mujer vio a ese hombre ayer,T ,Lai (2009): pp. 56
-,Nu=najuu-yaar++-∅   núquiica   simiím+,3S=escribir-ABL.PFV-EC   uno   carta,Él escribió una carta y luego se fue,T ,Lai (2009): pp. 72
-,Nu=najuu-∅-cura   iina   simiím+,3S=escribir-GNR.PFV-RPST   DET   carta,Él escribió esta carta (en el pasado reciente),T ,Lai (2009): pp. 73
-,Amicaáca   qui=iyarácata   asa-r++-∅   pápaaja,un.día.de.distancia   1S=rápidamente   comer-MMT.PFV-EC   pescado,Mañana yo comeré pescado rápidamente,T ,Lai (2009): pp. 74
-,Qui=pani-qui-∅   núquiica   anitáaqui,1S=buscar-GNR.PFV-EC   un   pecarí,Yo busqué al pecarí,T ,Lai (2009): pp. 87
-,Nu=siimita-a-∅   iina   simiím+,3S=leer-IPFV-EC   DET   libro,Él está leyendo ese libro (él va a estar leyendo este libro ahora),T ,Lai (2009): pp. 87
-,Qui=núquiica   anitáaqui   pani-maa-∅   cu=amuuni=iira   nuu,1S=uno   pecarí   buscar-REM.PFV-EC   1S=matar.INF=GOAL   3S,Yo buscaré un pecarí para matar (un mes después),T ,Lai (2009): pp. 87
-,Nu=raati-qui-∅   itíniija,3S=tomar-GNR.PFV-EC   masato,Él tomó masato (más temprano hoy),T ,Lai (2009): pp. 88
-,Ácari   iina   niínaqui   nu=itíniija   raati-qui-∅,ahora   DET   noche   3S=masato   tomar-GNR.PFV-EC,Esta noche él va a tomar masato,T ,Lai (2009): pp. 88
-,Eduardo   raati-i-∅   iina   ácari=yaa   jaari,Eduardo   beber-IPFV-EC   DET   ahora=NWR   ya,Eduardo va a beberlo ahorita mismo,T ,Lai (2009): pp. 119
-,"Taana   casiiri-jina,   qui=mii-∅-cura   qui-minga",otro   luna-LOC   1S=hacer-GNR.PFV-RPST   1S-minga,"El otro mes, yo hice mi minga",T ,Lai (2009): pp. 126
-,Tácari   yahu++ni=jina   quia=cuhuaa   amuu-yaa-cuma,otro   día-LOC   2S=carne   matar-IPFV-POT,Un día tú matarás animales,T ,Lai (2009): pp. 157
-,Qui=saaqu++nii-yaa-∅   quiaja   Don   Leo,1S=contar-IPFV-EC   2S   Don   Leo,"Le voy a contar a usted, Don Leo",T ,Lai (2009): pp. 470
-,Qui=pariijata-aariqu+   qui-niiyaca   tarahuaajuuni,1S=ayudar-DPST.IPFV   1S-esposo   trabajar.INF,Yo ayudé a mi esposo a trabajar,T ,Lai (2009): pp. 473
-,Atiíjija   quia=nu=turut++-∅-∅   iina   canuú,luego   2S=3S=secar-PFV-EC   DET   pasto.cambira,"Luego, tú secas el pasto",T ,Lai (2009): pp. 497
-,huaari   quia=iinii-∅-∅   nuu,ese.momento   2S=girar-PFV-EC   3S,tú lo giras,T ,Lai (2009): pp. 497
-,huaari   quia=taani-∅-∅   nuu,ese.momento   2S=ondear-PFV-EC   3S,"luego, tú lo ondeas",T ,Lai (2009): pp. 505
-,atiíjija   quia=nu-aniinaca   mii-∅-∅,después   2S=3S-brazos   hacer-PFV-EC,"luego, le haces sus asas",T ,Lai (2009): pp. 505
-,Acáami   Iwen=raati-∅-quiaqu+=yaa   nu=amaqu+=iira,río.arriba   Iwen=tomar-GNR.PFV-DPST.NIP=NWR   3S=camino=GOAL,Ahí mismo Iwen bebió antes de su viaje,,Lai (2009): pp. 88-89
-,"Taana   amariaana-jina,   cana=p+ca-r++-quiaqu+   tarahuajuuni",otro   año-LOC   1P.EXCL=terminar-MMT.PFV-DPST.NIP   trabajo,Nosotros terminamos el trabajo algún año en el pasado,,Lai (2009): pp. 128
+,,,,
+TOTAL:,58,,,
+,,,,
+ORA,SEGMENT,GLOSA,TRAD,FUENTE
+,Qui=amicaáca=nara-r++-∅,1S=un.día.de.distancia=bañar-MMT.PFV-EC,Mañana me bañaré,Lai (2009): pp. 50
+,Qui=nara-r++-∅   amicaáca,1S=bañar-MMT.PFV-EC   un.día.de.distancia,Mañana me bañaré,Lai (2009): pp. 50
+,Qui=nara-∅-cura   amicaáca,1S=bañar-GNR.PFV-RPST   un.día.de.distancia,Ayer yo me bañé,Lai (2009): pp. 51
+,Iina   maqui-i-∅   icuani,DET   dormir-IPFV-EC   hombre,Ese hombre está durmiendo,Lai (2009): pp. 53
+,Icuani   maqui-i-∅,hombre   dormir-IPFV-EC,Un hombre está durmiendo,Lai (2009): pp. 54
+,Iina   icuani   nu=maqui-i-∅,DET   hombre   3S=dormir-IPFV-EC,"Ese hombre, él está durmiendo",Lai (2009): pp. 54
+,Jaime   nu=pajuu-yaa-∅,Jaime   3S=enseñar-IPFV-EC,Jaime está enseñando,Lai (2009): pp. 71
+,Nu=sani-qui-∅   nuu,3S=tratar-GNR.PFV-EC   3S,Él trató (hoy),Lai (2009): pp. 71
+,Nu=sihuaan+-r++-∅,3S=llegar-MMT.PFV-EC,Él llegó,Lai (2009): pp. 71-72
+,Taaríqui   nu=sihuaan+-maa-∅,mañana   3S=llegar-REM.PFV-EC,Él llego en la mañana,Lai (2009): pp. 72
+,Nu=maqu+-cuaa-∅   tíira,3S=dormir-DEI2.PFV-EC   allí,Él durmió allí (y ya no está ahí),Lai (2009): pp. 72
+,Jaa   cu=asa-sahu++-∅   jaa,ya   1S=comer-ALL.PFV-EC   ya,Yo ya comí al llegar,Lai (2009): pp. 72
+,Taaríqui   p+=iisa-cuaa-∅   tíira,mañana   1PL.INCL=orinar-DEI1-EC   ahí,Nosotros fuimos ahí a orinar en la mañana,Lai (2009): pp. 75
+,P+=iicua-r++-∅   Iquito=jina   amicaáca,1P.INCL=ir-MMT.PFV-EC   Iquitos=LOC   un.día.de.distancia,Nosotros iremos a Iquitos mañana,Lai (2009): pp. 75
+,Qui=iicua-∅-quiaqu+   tíira   naqui-cuura,1S=ir-GNR.PFV-DPST.NIP   ahí   bosque-DST,Yo fui ahí al bosque (hace mucho tiempo),Lai (2009): pp. 85
+,Cu=am+yaaqui-aariqu+tíira   naqui-jina,1S=caminar-DPST.IPFV   ahí   bosque-LOC,Yo solía caminar ahí en el bosque,Lai (2009): pp. 85
+,Nu=iiqui-∅-aariqu+   Iquito-jina   taríiyaajaa,3S=vivir-GNR.PFV-DPST.IPFV   Iquito-LOC   hace.mucho.tiempo,Él vivió en la ciudad de Iquitos hace mucho tiempo,Lai (2009): pp. 108
+,Taríi   qui=muusi-∅-quiaqu+=yaa   iina=jina   aaca,antes   1S=nadar-GNR.PFV-DPST.NIP=NWR   DET=LOC   agua,Yo nadé en esta agua hace mucho tiempo,Lai (2009): pp. 109
+,Taríi   qui=ihu+ri-aariqu+=yaajaa,antes   1S=estar.enfermo-DPST.IPFV=NWR,Yo estuve enfermo hace mucho tiempo,Lai (2009): pp. 109
+,"Ácari   iina   niínaqui,   qui=suhuaata   maqu+-r++-∅",ahora   DET   noche   1S=bien   dormir-MMT.PFV-EC,Esta noche yo voy a dormir bien,Lai (2009): pp. 122
+,Amicaáca   cu=ariicua-∅-cura,un.día.de.distancia   1S=cantar-GNR.PFV-RPST,Ayer yo canté,Lai (2009): pp. 123
+,Amicaáca   p++   iicua-r++-∅,un.día.de.distancia   1PL.INCL   ir-MMT.PFV-EC,Mañana nosotros iremos,Lai (2009): pp. 123-124
+,P+=tiqui-aar++-∅   iina-jinacuma   iíta,1P.INCL=entrar-ABL.PFV-EC   DET-adentro   casa,Nosotros entramos en esa casa,Lai (2009): pp. 131
+,Ácari   iina   niínaqui   quia=suhuaata   maqu+-qui-∅,ahora   DET   noche   2S=bien   dormir-GNR.PFV-EC,Esta noche tú dormirás bien,Lai (2009): pp. 136
+,Tácari   yahu++ni=jina   quia=paj+-yaa-cuma,otro   día-LOC   2S=aprender-IPFV-POT,Un día tú estudiarías,Lai (2009): pp. 157
+,Niínaqui   nu=ta   cuhuasi-i-∅,noche   3S=ANT.IPFV   hablar-IPFV-EC,"En la noche, él estaba hablando",Lai (2009): pp. 422
+,Nu=quit+-r++-∅   cuhuasiini,3S=parar-MMT.PFV-EC   hablar.INF,Él paró de hablar,Lai (2009): pp. 433
+,Jaa   nu=iniica-qui-∅,ya   3S=despertarse-GNR.PFV-EC,Él ya se despertó,Lai (2009): pp. 435
+,Nu=isiin++-yaa-∅,3S=toser-IPFV-EC,Él está tosiendo,Lai (2009): pp. 447
+,Nu=asíjuu-yaa-∅,3S=estornudar-IPFV-EC,Él está estornudando,Lai (2009): pp. 447
+,Taaríqui   nu=ta   n+ti-i-∅,mañana   3S=ANT.IPFV   correr-IPFV-EC,Él estaba corriendo en la mañana,Lai (2009): pp. 453
+,Taaríqui   nu=n+t+-qui-∅,mañana   3S=correr-GNR.PFV-EC,Él corrió en la mañana,Lai (2009): pp. 453
+,Quia=iiqui-i-∅   najaaja   qui=jata,2S=vivir-IPFV-EC   también   1S=COM,Tú también vives conmigo,Lai (2009): pp. 486
+,Aási   picuu-∅-cura   iíta-ca,lluvia   mojar-GNR.PFV-RPST   casa-PL,La lluvia mojó las casas (ayer),Lai (2009): pp. 47
+,Nu=niqui-qui-∅   nuu,3S=ver-GNR.PFV-EC   3S,Él/Ella lo/la vió (hoy),Lai (2009): pp. 48
+,Nu=nu=niqui-r+-∅,3S=3S=ver-MMT.PFV-EC,Él/Ella lo/la verá (mañana),Lai (2009): pp. 48
+,Aási   picuu-∅-∅   iíta-ca,lluvia   mojar-GNR.PFV-EC   casa-PL,La lluvia mojó las casas (hoy),Lai (2009): pp. 49
+,Aási   iíta-ca   picuu-r++-∅,lluvia   casa-PL   mojar-MMT.PFV-EC,La lluvia mojará las casas (mañana),Lai (2009): pp. 49
+,Iina   m+yaara   s++naqui-∅-cura   iína   caaya,DET   perro   masticar/morder-GNR.PFV-RPST   DET   persona,Ese perro mordió a esa persona (ayer),Lai (2009): pp. 54
+,Qui=niqui-∅-cura   iina   icuani,1S=ver-GNR.PFV-RPST   DET   hombre,Yo vi a ese hombre (ayer),Lai (2009): pp. 56
+,Iina   m+saji   nu=niqui-∅-cura   amicaáca   iina   icuani,DET   mujer   3S=ver-GNR.PFV-RPST   un.día.de.distancia   DET   hombre,Esa mujer vio a ese hombre ayer,Lai (2009): pp. 56
+,Nu=najuu-yaar++-∅   núquiica   simiím+,3S=escribir-ABL.PFV-EC   uno   carta,Él escribió una carta y luego se fue,Lai (2009): pp. 72
+,Nu=najuu-∅-cura   iina   simiím+,3S=escribir-GNR.PFV-RPST   DET   carta,Él escribió esta carta (en el pasado reciente),Lai (2009): pp. 73
+,Amicaáca   qui=iyarácata   asa-r++-∅   pápaaja,un.día.de.distancia   1S=rápidamente   comer-MMT.PFV-EC   pescado,Mañana yo comeré pescado rápidamente,Lai (2009): pp. 74
+,Qui=pani-qui-∅   núquiica   anitáaqui,1S=buscar-GNR.PFV-EC   un   pecarí,Yo busqué al pecarí,Lai (2009): pp. 87
+,Nu=siimita-a-∅   iina   simiím+,3S=leer-IPFV-EC   DET   libro,Él está leyendo ese libro (él va a estar leyendo este libro ahora),Lai (2009): pp. 87
+,Qui=núquiica   anitáaqui   pani-maa-∅   cu=amuuni=iira   nuu,1S=uno   pecarí   buscar-REM.PFV-EC   1S=matar.INF=GOAL   3S,Yo buscaré un pecarí para matar (un mes después),Lai (2009): pp. 87
+,Nu=raati-qui-∅   itíniija,3S=tomar-GNR.PFV-EC   masato,Él tomó masato (más temprano hoy),Lai (2009): pp. 88
+,Ácari   iina   niínaqui   nu=itíniija   raati-qui-∅,ahora   DET   noche   3S=masato   tomar-GNR.PFV-EC,Esta noche él va a tomar masato,Lai (2009): pp. 88
+,Eduardo   raati-i-∅   iina   ácari=yaa   jaari,Eduardo   beber-IPFV-EC   DET   ahora=NWR   ya,Eduardo va a beberlo ahorita mismo,Lai (2009): pp. 119
+,"Taana   casiiri-jina,   qui=mii-∅-cura   qui-minga",otro   luna-LOC   1S=hacer-GNR.PFV-RPST   1S-minga,"El otro mes, yo hice mi minga",Lai (2009): pp. 126
+,Tácari   yahu++ni=jina   quia=cuhuaa   amuu-yaa-cuma,otro   día-LOC   2S=carne   matar-IPFV-POT,Un día tú matarás animales,Lai (2009): pp. 157
+,Qui=saaqu++nii-yaa-∅   quiaja   Don   Leo,1S=contar-IPFV-EC   2S   Don   Leo,"Le voy a contar a usted, Don Leo",Lai (2009): pp. 470
+,Qui=pariijata-aariqu+   qui-niiyaca   tarahuaajuuni,1S=ayudar-DPST.IPFV   1S-esposo   trabajar.INF,Yo ayudé a mi esposo a trabajar,Lai (2009): pp. 473
+,Atiíjija   quia=nu=turut++-∅-∅   iina   canuú,luego   2S=3S=secar-PFV-EC   DET   pasto.cambira,"Luego, tú secas el pasto",Lai (2009): pp. 497
+,huaari   quia=iinii-∅-∅   nuu,ese.momento   2S=girar-PFV-EC   3S,tú lo giras,Lai (2009): pp. 497
+,huaari   quia=taani-∅-∅   nuu,ese.momento   2S=ondear-PFV-EC   3S,"luego, tú lo ondeas",Lai (2009): pp. 505
+,atiíjija   quia=nu-aniinaca   mii-∅-∅,después   2S=3S-brazos   hacer-PFV-EC,"luego, le haces sus asas",Lai (2009): pp. 505
+,Acáami   Iwen=raati-∅-quiaqu+=yaa   nu=amaqu+=iira,río.arriba   Iwen=tomar-GNR.PFV-DPST.NIP=NWR   3S=camino=GOAL,Ahí mismo Iwen bebió antes de su viaje,Lai (2009): pp. 88-89
+,"Taana   amariaana-jina,   cana=p+ca-r++-quiaqu+   tarahuajuuni",otro   año-LOC   1P.EXCL=terminar-MMT.PFV-DPST.NIP   trabajo,Nosotros terminamos el trabajo algún año en el pasado,Lai (2009): pp. 128
