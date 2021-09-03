@@ -1,9 +1,9 @@
 DOMINIO,ID,PREGUNTA,VALOR
 Marcación verbal,Q1.1,La lengua posee indexación,"1, 0"
 ,,,
-,Q1.2,Persona puede ser marcada para S:,"a=prefijo, b=sufijo, c=ambos, d=proclítico, e=enclítico, f=clítico, g=no marcado"
+,Q1.2,Persona puede ser marcada para S:,"a=prefijo, b=sufijo, c=afijo, d=proclítico, e=enclítico, f=clítico, g=no marcado"
 ,Q1.2.1,La marcación de persona para S cuando el conominal está expresado en la cláusula es:,"a=obligatorio, b=variable, c=no marcado"
-,Q1.2.2,El locus de la marcación argumental es en:,"a=dentro del verbo, b=fuera del verbo, c=ambos"
+,Q1.2.2,El locus de la marcación argumental es:,"a=dentro del verbo, b=fuera del verbo, c=ambos"
 ,Q1.3,Número puede ser marcado para S:,"a=prefijo independiente, b=sufijo independiente, c=fusionado con persona, d=no marcado"
 ,Q1.4,Género puede ser marcado para S:,"a=prefijo independiente, b=sufijo independiente, c=fusionado con persona, d=no marcado, e=no hay género"
 ,,,
